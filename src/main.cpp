@@ -127,12 +127,12 @@ void processVideo(char* video_file_name)
 int main(int argc, char* argv[])
 {
 	// Run command example:
-	//  ./build/vidcv ~/Downloads/dogpro.mp4
-	// 			   ^^^ this path of video file ^^^
+	// ./build/vidcv test/dog1.mp4
+	// or 
+	// ./build/vidcv test/dog2.mp4
 	if(argc != 2) 
 	{
-		cerr <<"Incorret input list" << endl;
-		cerr <<"exiting..." << endl;
+		cerr <<"Incorret input list\nExiting..." << endl;
 		return EXIT_FAILURE;
 	}
   	//create GUI windows
