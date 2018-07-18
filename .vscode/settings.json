@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "ios": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp"
+    }
+}
