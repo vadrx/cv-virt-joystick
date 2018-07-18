@@ -8,8 +8,8 @@ Required install CMake, OpenCV
 
 ```
 git clone https://github.com/vadrx/cv-virt-joystick
-./build/vidcv test/dog1.mp4
-./build/vidcv test/dog2.mp4
+./build/vidcv ../test/dog1.mp4
+./build/vidcv ../test/dog2.mp4
 ```
 
 <h2> Building: </h2>
